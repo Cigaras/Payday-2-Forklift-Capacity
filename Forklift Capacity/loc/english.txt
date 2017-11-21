@@ -1,0 +1,6 @@
+{
+	"cfc_options_menu_title" : "Forklift Capacity",
+	"cfc_options_menu_desc" : "",
+	"cfc_option_1_title" : "Forklift Capacity",
+	"cfc_option_1_desc" : "Increase forklift capacity to 8 to be able to transport all required bags in one go for Long Fellow trophy"
+}

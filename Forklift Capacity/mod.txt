@@ -1,0 +1,22 @@
+{
+	"name": "Forklift Capacity",
+	"description": "Allows to increase forklift capacity up to 8 to be able to transport all required bags in one go for Long Fellow trophy",
+	"author": "Valdas V.",
+	"version": "1.0",
+	"blt_version": 2,
+	"image": "logo.png",
+	"updates": [
+		{
+			"identifier" : "FC"
+		}
+	],
+	"dependencies": [
+		"ANCR"
+	],
+	"hooks": [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/menumanager.lua"
+		}
+	]
+}
